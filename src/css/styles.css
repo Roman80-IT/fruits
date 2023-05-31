@@ -1,0 +1,21 @@
+/**
+  |============================
+  | include css partials with
+  | default @import url()
+  |============================
+*/
+@import url('./reset.css');
+@import url('./variables.css');
+@import url('./base.css');
+@import url('./normalize.css');
+@import url('./mobile-burger.css');
+@import url('./order.css');
+@import url('./header.css');
+@import url('./hero.css');
+@import url('./how-it-works.css');
+@import url('./fruits.css');
+@import url('./thank-modal.css');
+@import url('./contacts.css');
+@import url('./footer.css');
+@import url('./go-top.css');
+@import url('./thank-modal-subscribe.css');
